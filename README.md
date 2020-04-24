@@ -28,7 +28,7 @@ Just include [WinMemFopen.h](src/WinMemFopen.h) in your project and call the fun
 Add `#define DEBUG 1` in [mem.h](src/mem.h) to enable printing debugging information in functions. 
 
 ## Example
-The file "example.c" shows usage of the functions.
+The file [example.c](src/example.c) shows usage of the functions.
 
 ## License 
 The project is licensed under GPLv3.0 license. 
