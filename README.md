@@ -1,11 +1,11 @@
 # WinMemFopen
 
-### Table of content 
-######   Introduction 
-######   Use cases 
-######   How to use 
-######   Examples
-######   License 
+## Table of content 
+###   Introduction 
+###   Use cases 
+###   How to use 
+###   Examples
+###   License 
 
 
 ## Introduction 
@@ -31,4 +31,4 @@ Add `#define DEBUG 1` in [mem.h](src/mem.h) to enable printing debugging informa
 The file "example.c" shows usage of the functions.
 
 ## License 
-The project is licensed under GPLv3.0 license. 
+The project is licensed under GPLv2.0 license. 
