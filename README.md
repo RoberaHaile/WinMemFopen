@@ -1,11 +1,11 @@
 # WinMemFopen
 
-## Table of content 
-###   Introduction 
-###   Use cases 
-###   How to use 
-###   Examples
-###   License 
+### Table of content 
+#####   Introduction 
+#####   Use cases 
+#####   How to use 
+#####   Examples
+#####   License 
 
 
 ## Introduction 
